@@ -1,4 +1,4 @@
-# terraconverter-geodata
+# TerraConverter geodata (Android)
 
 Priređeni podatkovni releasi koje koristi [TerraConverter](<link na glavni TerraConverter repo>)
 Android aplikacija. Ovaj repo **ne sadrži kod** — samo povremene GitHub
